@@ -8,3 +8,9 @@
 ## connect
 - linkedIn: https://linkedin.com/in/aawaiz
 - email: aawaizali8@gmail.com & aawaiz@synkflow.cloud
+
+## stack
+- react, next
+- react native, flutter
+- node, express, nest
+- ui/ix expert 
