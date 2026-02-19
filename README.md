@@ -2,7 +2,7 @@
 
 ## about me
 - proud father of www.paltuu.pk & www.trackboxd.com
-- senior at FAST NUCES, Karachi, BSCS.
+- comp sci senior at FAST NUCES KHI
 - swe at synkflow technologies.
 
 ## connect
