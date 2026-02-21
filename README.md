@@ -1,9 +1,11 @@
 # I'm Aawaiz Ali! 
 
 ## about me
-- proud father of www.paltuu.pk & www.trackboxd.com
+- co-founder and ceo @ www.paltuu.pk
+- creator of www.trackboxd.com
+- swe @ synkflow technologies.
+- head of product engineering @ www.parchipakistan.com
 - comp sci senior at FAST NUCES KHI
-- swe at synkflow technologies.
 
 ## connect
 - linkedIn: https://linkedin.com/in/aawaiz
