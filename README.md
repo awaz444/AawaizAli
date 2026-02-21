@@ -12,7 +12,7 @@
 - email: aawaizali8@gmail.com & aawaiz@synkflow.cloud
 
 ## stack
-- react, next
+- react, next, redux
 - react native, flutter
 - node, express, nest
 - ui/ix
