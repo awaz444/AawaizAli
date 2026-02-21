@@ -15,4 +15,5 @@
 - react, next
 - react native, flutter
 - node, express, nest
-- ui/ix expert 
+- ui/ix
+- system design
